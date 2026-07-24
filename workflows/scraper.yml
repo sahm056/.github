@@ -1,4 +1,4 @@
-name: SEEK Excel Scraper Daily Run
+name: SEEK Scraper
 
 on:
   schedule:
